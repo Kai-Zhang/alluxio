@@ -19,7 +19,7 @@ import (
 
 	"github.com/palantir/stacktrace"
 
-	"alluxio.org/common/command"
+	"github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org/common/command"
 )
 
 func collectTarballContents(opts *buildOpts, repoBuildDir, dstDir, alluxioVersion string) error {

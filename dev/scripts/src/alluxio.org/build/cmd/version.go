@@ -20,7 +20,7 @@ import (
 
 	"github.com/palantir/stacktrace"
 
-	"alluxio.org/common/repo"
+	"github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org/common/repo"
 )
 
 func VersionF() error {

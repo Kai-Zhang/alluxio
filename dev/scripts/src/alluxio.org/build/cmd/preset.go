@@ -22,7 +22,7 @@ import (
 	"github.com/palantir/stacktrace"
 	"gopkg.in/yaml.v3"
 
-	"alluxio.org/build/artifact"
+	"github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org/build/artifact"
 )
 
 const (

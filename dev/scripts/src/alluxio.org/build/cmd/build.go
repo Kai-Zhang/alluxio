@@ -20,9 +20,9 @@ import (
 
 	"github.com/palantir/stacktrace"
 
-	"alluxio.org/build/artifact"
-	"alluxio.org/common/command"
-	"alluxio.org/common/repo"
+	"github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org/build/artifact"
+	"github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org/common/command"
+	"github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org/common/repo"
 )
 
 const (

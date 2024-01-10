@@ -19,7 +19,7 @@ import (
 	"github.com/palantir/stacktrace"
 	"gopkg.in/yaml.v3"
 
-	"alluxio.org/common/command"
+	"github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org/common/command"
 )
 
 func NewArtifactGroup(version string) (*ArtifactGroup, error) {

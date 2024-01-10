@@ -17,7 +17,7 @@ import (
 
 	"github.com/palantir/stacktrace"
 
-	"alluxio.org/build/cmd"
+	"github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org/build/cmd"
 )
 
 func main() {

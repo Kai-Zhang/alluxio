@@ -12,7 +12,7 @@
 package repo
 
 import (
-	"alluxio.org/common/command"
+	"github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org/common/command"
 	"io/ioutil"
 	"log"
 	"path/filepath"
