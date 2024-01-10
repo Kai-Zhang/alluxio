@@ -1,4 +1,4 @@
-module alluxio.org
+module github.com/Kai-Zhang/alluxio/dev/scripts/src/alluxio.org
 
 go 1.15
 
